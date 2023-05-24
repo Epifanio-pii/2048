@@ -21,7 +21,7 @@ Limitações:
 - O jogo não contém uma tela de "victória" ou "derrota". Em vez disso, eu implementei apenas um alerta!
 
 Objectivos futuros:
-- lementar as telas de "bas vindas", "victória" e "Derrota";
+- implementar as telas de "bas vindas", "victória" e "Derrota";
 - Poder jogar com o Mouse ou Celular, de preferência usando "Drag and Drop"
 
 [resumo bem resumido.docx](https://github.com/Epifanio-pii/2048/files/11557300/resumo.bem.resumido.docx)
